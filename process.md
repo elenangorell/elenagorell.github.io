@@ -31,7 +31,7 @@ permalink: /process/
 
 ## Leadership & Strategy
 * **Style Guide Governance:** Please see above.
-* **Workflow Guide Management:**
+* **Workflow Guide Management:** Partnered annually with Customer Success Management (CSMs) to audit and refresh customer-specific workflow guides, ensuring documentation remains aligned with evolving business requirements and onboarding implementation needs. 
 * **
 
 ### Corporate Style Guides
