@@ -2,3 +2,5 @@ title: Elena Gorell Technical Writing Portfolio
 description: 9+ years of documentation and release management experience.
 remote_theme: pages-themes/merlot@0.2.0
 #This is a comment
+#This tells the theme to pull the menu from our data file 
+navigation: _data/navigation.yml
