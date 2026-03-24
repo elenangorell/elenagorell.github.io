@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: English Portfolio
+  link: /en/projects/
+- name: Documentation Française
+  link: /fr/projects/
+- name: Tools & Process
+  link: /process/
+- name: About & Resume
+  link: /about/
